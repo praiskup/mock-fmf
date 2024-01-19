@@ -1,4 +1,3 @@
-summary: Basic smoke test
+---
 execute:
-    how: tmt
     script: echo hello world
