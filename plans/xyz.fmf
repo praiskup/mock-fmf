@@ -1,0 +1,10 @@
+---
+summary: other
+discover:
+    how: fmf
+    filter: "tags: other"
+prepare:
+    how: ansible
+    playbook: ansible/play.yml
+execute:
+    how: tmt
