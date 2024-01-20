@@ -2,7 +2,7 @@
 summary: other
 discover:
     how: fmf
-    filter: "tags: other"
+    filter: "tag:other"
 prepare:
     how: ansible
     playbook: ansible/play.yml
