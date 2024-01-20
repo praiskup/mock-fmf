@@ -1,2 +1,5 @@
+---
 summary: Concise summary describing what the test does
 test: ./test.sh
+tag:
+  - other
